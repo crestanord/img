@@ -36,16 +36,16 @@
   </wpt>
   <wpt lat="40.522443" lon="16.049057">
     <ele>672.5926848162164</ele>
-    <name>Bivio</name>
-    <cmt>Seguire le indicazioni per Ferrata Marcirosa e Salem</cmt>
-    <desc>Seguire le indicazioni per Ferrata Marcirosa e Salem</desc>
+    <name>Bivio: Inizio avvicinamento</name>
+    <cmt>Seguire le indicazioni per Ferrata Marcirosa e Salemm</cmt>
+    <desc>Seguire le indicazioni per Ferrata Marcirosa e Salemm</desc>
     <sym>Alert</sym>
   </wpt>
   <wpt lat="40.525602" lon="16.050464">
     <ele>654.683818251576</ele>
-    <name>Bivio Salem / Marcirosa</name>
-    <cmt>Seguire le indicazioni per Ferrata Marcirosa</cmt>
-    <desc>Seguire le indicazioni per Ferrata Marcirosa</desc>
+    <name>Bivio: Inizio Ferrata Marcirosa</name>
+    <cmt>Seguire le indicazioni per Ferrata Marcirosa sulla destra</cmt>
+    <desc>Seguire le indicazioni per Ferrata Marcirosa sulla destra</desc>
     <sym>Alert</sym>
   </wpt>
   <wpt lat="40.525277" lon="16.051771">
@@ -58,8 +58,8 @@
     <name>Secondo ponte tibetano</name>
     <sym>Bridge</sym>
   </wpt>
-  <wpt lat="40.519761" lon="16.059858">
-    <ele>964.4128379055182</ele>
+  <wpt lat="40.519808684914324" lon="16.059928432840223">
+    <ele>966.3878655603012</ele>
     <name>La bottega del borgo</name>
     <cmt>Panini con affettati e bevande</cmt>
     <desc>Panini con affettati e bevande</desc>
@@ -73,6 +73,7 @@
   <wpt lat="40.524888" lon="16.052602">
     <ele>782.3477434138691</ele>
     <name>Via di Fuga</name>
+    <sym>Alert</sym>
   </wpt>
   <wpt lat="40.521628" lon="16.058806">
     <ele>968.5389507581923</ele>
@@ -85,6 +86,27 @@
     <ele>928.1002880526288</ele>
     <name>Adesivo Crestanord</name>
     <sym>Summit</sym>
+  </wpt>
+  <wpt lat="40.524673" lon="16.054901">
+    <ele>887.5527725185049</ele>
+    <name>Via di fuga</name>
+    <sym>Alert</sym>
+  </wpt>
+  <wpt lat="40.52467" lon="16.046281">
+    <ele>768.1462748275708</ele>
+    <name>Inizio percorso delle 7 pietre - Andata</name>
+  </wpt>
+  <wpt lat="40.522166" lon="16.048455">
+    <ele>668.619550562029</ele>
+    <name>Streghe</name>
+  </wpt>
+  <wpt lat="40.525409" lon="16.051712">
+    <ele>710.0240333030536</ele>
+    <name>Masso sospeso</name>
+  </wpt>
+  <wpt lat="40.518086" lon="16.061266">
+    <ele>926.1495241387624</ele>
+    <name>Inizio percorso delle 7 pietre - Ritorno</name>
   </wpt>
   <trk>
     <name>Nuovo file 1</name>
